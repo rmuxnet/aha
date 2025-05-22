@@ -54,6 +54,23 @@
 | 🟠 **TWRP** | 3.7.1_12 | @aerniq | [📥 Telegram](https://t.me/pipacancer/60) • [📥 Github](https://github.com/rmuxnet/android_device_xiaomi_pipa_twrp/releases/download/fewk/twrp-last.img) • [📖 Written Guide](https://rmuxnet.github.io/twrp_pipa/) • [🎬 Video Guide](https://t.me/pipacancer/39) • [☕ Donate](http://rmux.zya.me/) |
 | 🟠 **Orange Fox** | R11.3 | @CuriousNom | [📥 Download](https://github.com/CuriousNom/OrangeFox-Action-Builder/releases/tag/15132943677) • [📖 Flash Guide](https://t.me/rchnewgallery/67) • [👥 Support](https://t.me/RomCentralHub) |
 
+## 🐧 Linux Distributions
+
+| Distribution | Version | Maintainer | Links |
+|-------------|---------|------------|-------|
+| 🐧 **Arch Linux** | ARM64 | @domin746826 & @aerniq | [📥 Download](https://t.me/pipacancer/113?single) • [📖 Full Guide](https://t.me/xiaomi_pipa/13074) • [⚙️ Setup Script](https://raw.githubusercontent.com/BrickTM-mainline/pipa/refs/heads/main/scripts/setup.sh) |
+| 🐧 **postmarketOS** |  ARM64 | @labnixxiz | [📥 Builds](https://github.com/pipa-project/postmarketos-builds/actions) •  |
+| 🐧 **Fedora** | 42 | @themojoman | [📥 Download](https://github.com/themojoman/xiaomi-pipa) |
+
+## 🔧 Additional Modifications
+
+### Remove OEM/Fastboot Logo
+To remove OEM and fastboot logos:
+```bash
+fastboot flash imagefv_ab yep.img
+```
+📥 Download: [Telegram](https://t.me/mipad6/104864)
+
 ## ⚙️ Custom Kernels
 
 | Kernel | Base | Maintainer | Links |
@@ -70,6 +87,8 @@
 | 🏆 **VOLTAGE OS** | @glitch_wraith | Clean and customizable |
 | 🏆 **ProjectPixelage** | @oko_123 & @aerniq | very good for daily usage |
 | 🏆 **AxionAOSP** | @aerniq | good for daily usage |
+| 🏆 **ColorOS Port** | Multiple | ColorOS experience with BloodReaper+ kernel |
+
 ## ⚠️ Important Note on Gaming Performance
 
 If you're looking for maximum gaming performance and want those extra FPS in PUBG, try CuriousNom's builds like BloodReaper+, Project Matrixx, or RisingOS.
@@ -99,8 +118,8 @@ For Christ's sake, stop asking which ROM is best for gaming in every support gro
 | GenesisOS | Android 15 | ✅ | GApps | ✅ | ✅ | Firmware included |
 | Clover Project | Android 15 | ✅ | GApps | ✅ | ✅ | Firmware included |
 | RavenOS | HyperOS | ❓ | System | ✅ | ✅ | Clean flash required |
-| ColorOS Port | ColorOS | ✅ | System | ❌ | ✅ | BloodReaper+ Kernel |
-| ColorOS 15 | Android 15 | ❓ | System | ❌ | ✅ | From OnePlus Pad Pro |
+| ColorOS Port | ColorOS | ✅ | System | ✅ | ✅ | BloodReaper+ Kernel |
+| ColorOS 15 | Android 15 | ❓ | System | ✅ | ✅ | From OnePlus Pad Pro |
 | CalyxOS | Android 15 | ❓ | MicroG | ✅ | ✅ | Privacy-focused, MicroG built-in |
 
 ## 💡 Quick Tips
