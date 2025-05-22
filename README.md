@@ -28,6 +28,11 @@
 | 🔶 **LineageOS** | 22.2 | Latest | @tu4wkl (Tuki) | [📥 Drive](https://drive.google.com/drive/folders/1gRXBWFDi11W_KIzBzRMQmvDHf0G5Dv0j) • [📥 Telegram](https://t.me/tukisshit/160) • [📥 Github](https://github.com/pachdomenic/Lineage_OTA/releases/tag/lineage-22.2-20250415-UNOFFICIAL-Tuki-pipa) • [📢 Channel](https://t.me/tukiupdates) |
 | 🔶 **LMODroid** | v6.1 | Latest | @ai94iq | [📥 Github](https://github.com/ai94iq/pipa-releases/releases/tag/LMODroid-6.1-20250315) • [📖 Guide](https://github.com/ai94iq/pipa-releases?tab=readme-ov-file#installation-guide) • [☕ Donate](https://buymeacoffee.com/ai94iq) |
 | 🔶 **SomethingOS** | 2.0 | Latest | @glitch_wraith | [📥 Fastboot](https://sourceforge.net/projects/somethingospipa/files/FastbootRom/) • [📥 Recovery](https://sourceforge.net/projects/somethingospipa/files/RecoveryRom/) • [📸 Screenshots](https://t.me/royal_labs/192?single) • [📢 Channel](https://t.me/XiaomiPad6Updates) |
+| 🔶 **CalyxOS** | 6.3.2 | Latest | @ai94iq | [📥 Github](https://github.com/ai94iq/pipa-calyxos-releases/releases/tag/CalyxOS-6.3.2-20250130) • [📖 Guide](https://github.com/ai94iq/pipa-calyxos-releases?tab=readme-ov-file#installation-guide) • [☕ Donate](https://buymeacoffee.com/ai94iq) |
+| 🔶 **Derpfest** | v15.1 | Latest | @glitch_wraith | [📥 Sourceforge](https://sourceforge.net/projects/pipa-derpfest/files/) • [📥 PixelDrain](https://pixeldrain.com/u/LC4z1zdd) • [🛠️ Recovery](https://sourceforge.net/projects/pipa-derpfest/files/Derpfest%20Recovery/) • [📖 Guide](https://github.com/royal-jaat/Pipa-Release) |
+| 🔶 **Bliss** | V18.5 | Latest | @glitch_wraith | [📥 Download](https://sourceforge.net/projects/blissospipa/files/) • [🛠️ Recovery](https://sourceforge.net/projects/blissospipa/files/22-04-2025/) • [📸 Screenshots](https://t.me/royal_labs/226?single) • [👥 Support](https://t.me/XiaomiPad6Global) |
+| 🔶 **GenesisOS** | V4.2 | Latest | @glitch_wraith | [📥 Download](https://sourceforge.net/projects/genesisospipa/files/) • [🛠️ Recovery](https://sourceforge.net/projects/genesisospipa/files/22-04-2025/) • [📸 Screenshots](https://t.me/royal_labs/243?single) • [👥 Support](https://t.me/XiaomiPad6Global) |
+| 🔶 **The Clover Project** | V2.5 | Latest | @glitch_wraith | [📥 Download](https://t.me/royal_labs/276) • [🛠️ Recovery](https://t.me/dump_cloud_001/34) • [📸 Screenshots](https://t.me/royal_labs/274?single) • [👥 Support](https://t.me/XiaomiPad6Global) |
 
 ## 🔮 HyperOS-Based ROMs
 
@@ -84,7 +89,7 @@ For Christ's sake, stop asking which ROM is best for gaming in every support gro
 | ProjectPixelage | Android 15 QPR2 | ✅ | GApps | ✅ | ✅ | May security patch |
 | Evolution X | Android 15 QPR2 | ✅ | GApps | ✅ | ✅ | Pen works at 60/120Hz |
 | VOLTAGE OS | Android 15 | ✅ | Vanilla | ✅ | ✅ | S9 Ultra Spoof |
-| CrDroid | Android 15 QPR2 | ✅ | Both | ✅ | ✅ | Fixed VoIP |
+| CrDroid | Android 15 QPR2 | ❓ | Both | ✅ | ✅ | Fixed VoIP |
 | HorizonDroid | Android 15 | ✅ | GApps | ✅ | ✅ | Firmware included |
 | LineageOS | Android 15 QPR2 | ❓ | Vanilla | ❌ | ✅ | Pen works at 60/120Hz |
 | LMODroid | Android 15 | ❓ | Vanilla | ✅ | ✅ | Smart Cover Settings |
@@ -95,7 +100,8 @@ For Christ's sake, stop asking which ROM is best for gaming in every support gro
 | Clover Project | Android 15 | ✅ | GApps | ✅ | ✅ | Firmware included |
 | RavenOS | HyperOS | ❓ | System | ✅ | ✅ | Clean flash required |
 | ColorOS Port | ColorOS | ✅ | System | ✅ | ✅ | BloodReaper+ Kernel |
-| ColorOS 15 | ColorOS | ❓ | System | ✅ | ✅ | From OnePlus Pad Pro |
+| ColorOS 15 | Android 15 | ❓ | System | ✅ | ✅ | From OnePlus Pad Pro |
+| CalyxOS | Android 15 | ❓ | MicroG | ✅ | ✅ | Privacy-focused, MicroG built-in |
 
 ## 💡 Quick Tips
 
