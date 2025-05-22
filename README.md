@@ -46,7 +46,7 @@
 
 | Recovery | Version | Release | Maintainer | Links |
 |----------|---------|---------|------------|-------|
-| 🟠 **TWRP** | 3.7.1_12 | Mar 17, 2025 | @mx7111 | [📥 Telegram](https://t.me/pipacancer/60) • [📥 Github](https://github.com/rmuxnet/android_device_xiaomi_pipa_twrp/releases/download/fewk/twrp-last.img) • [📖 Written Guide](https://rmuxnet.github.io/twrp_pipa/) • [🎬 Video Guide](https://t.me/pipacancer/39) • [☕ Donate](http://rmux.zya.me/) |
+| 🟠 **TWRP** | 3.7.1_12 | Mar 17, 2025 | @aerniq | [📥 Telegram](https://t.me/pipacancer/60) • [📥 Github](https://github.com/rmuxnet/android_device_xiaomi_pipa_twrp/releases/download/fewk/twrp-last.img) • [📖 Written Guide](https://rmuxnet.github.io/twrp_pipa/) • [🎬 Video Guide](https://t.me/pipacancer/39) • [☕ Donate](http://rmux.zya.me/) |
 | 🟠 **Orange Fox** | R11.3 | May 20, 2025 | @CuriousNom | [📥 Download](https://github.com/CuriousNom/OrangeFox-Action-Builder/releases/tag/15132943677) • [📖 Flash Guide](https://t.me/rchnewgallery/67) • [👥 Support](https://t.me/RomCentralHub) |
 
 ## ⚙️ Custom Kernels
@@ -84,7 +84,7 @@ For Christ's sake, stop asking which ROM is best for gaming in every support gro
 | ProjectPixelage | Android 15 QPR2 | ✅ | GApps | ✅ | ✅ | May security patch |
 | Evolution X | Android 15 QPR2 | ✅ | GApps | ✅ | ✅ | Pen works at 60/120Hz |
 | VOLTAGE OS | Android 15 | ✅ | Vanilla | ✅ | ✅ | S9 Ultra Spoof |
-| CrDroid | Android 15 QPR2 | ❓ | Both | ✅ | ✅ | Fixed VoIP |
+| CrDroid | Android 15 QPR2 | ✅ | Both | ✅ | ✅ | Fixed VoIP |
 | HorizonDroid | Android 15 | ✅ | GApps | ✅ | ✅ | Firmware included |
 | LineageOS | Android 15 QPR2 | ❓ | Vanilla | ❌ | ✅ | Pen works at 60/120Hz |
 | LMODroid | Android 15 | ❓ | Vanilla | ✅ | ✅ | Smart Cover Settings |
@@ -95,7 +95,7 @@ For Christ's sake, stop asking which ROM is best for gaming in every support gro
 | Clover Project | Android 15 | ✅ | GApps | ✅ | ✅ | Firmware included |
 | RavenOS | HyperOS | ❓ | System | ✅ | ✅ | Clean flash required |
 | ColorOS Port | ColorOS | ✅ | System | ✅ | ✅ | BloodReaper+ Kernel |
-| ColorOS 15 | Android 15 | ❓ | System | ✅ | ✅ | From OnePlus Pad Pro |
+| ColorOS 15 | ColorOS | ❓ | System | ✅ | ✅ | From OnePlus Pad Pro |
 
 ## 💡 Quick Tips
 
