@@ -99,8 +99,8 @@ For Christ's sake, stop asking which ROM is best for gaming in every support gro
 | GenesisOS | Android 15 | ✅ | GApps | ✅ | ✅ | Firmware included |
 | Clover Project | Android 15 | ✅ | GApps | ✅ | ✅ | Firmware included |
 | RavenOS | HyperOS | ❓ | System | ✅ | ✅ | Clean flash required |
-| ColorOS Port | ColorOS | ✅ | System | ✅ | ✅ | BloodReaper+ Kernel |
-| ColorOS 15 | Android 15 | ❓ | System | ✅ | ✅ | From OnePlus Pad Pro |
+| ColorOS Port | ColorOS | ✅ | System | ❌ | ✅ | BloodReaper+ Kernel |
+| ColorOS 15 | Android 15 | ❓ | System | ❌ | ✅ | From OnePlus Pad Pro |
 | CalyxOS | Android 15 | ❓ | MicroG | ✅ | ✅ | Privacy-focused, MicroG built-in |
 
 ## 💡 Quick Tips
